@@ -1,0 +1,12 @@
+.elem1 {
+	background-color: red;
+	font-size: 3em;
+	color: blue;
+	border-radius: 30px;
+}
+.elem2 {
+	background-color: blue;
+	font-size: 2em;
+	color: red;
+	border-radius: 0;
+}
